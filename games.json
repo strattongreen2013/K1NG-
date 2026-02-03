@@ -1,0 +1,59 @@
+
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "category": "Puzzle",
+    "thumbnail": "https://picsum.photos/seed/2048/400/300",
+    "iframeUrl": "https://play2048.co/",
+    "description": "Join the numbers and get to the 2048 tile!"
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris",
+    "category": "Arcade",
+    "thumbnail": "https://picsum.photos/seed/hextris/400/300",
+    "iframeUrl": "https://hextris.io/",
+    "description": "An addictive puzzle game inspired by Tetris but on a hexagon."
+  },
+  {
+    "id": "flappy-bird",
+    "title": "Flappy Clone",
+    "category": "Arcade",
+    "thumbnail": "https://picsum.photos/seed/flappy/400/300",
+    "iframeUrl": "https://wayou.github.io/FlappyBird/",
+    "description": "Flap your wings and avoid the pipes in this classic challenge."
+  },
+  {
+    "id": "tower-game",
+    "title": "Tower Building",
+    "category": "Strategy",
+    "thumbnail": "https://picsum.photos/seed/tower/400/300",
+    "iframeUrl": "https://tower-game.github.io/",
+    "description": "Stack the blocks as high as you can to build the tallest tower."
+  },
+  {
+    "id": "chess",
+    "title": "Open Chess",
+    "category": "Strategy",
+    "thumbnail": "https://picsum.photos/seed/chess/400/300",
+    "iframeUrl": "https://lichess.org/export/embed/puzzles",
+    "description": "Improve your chess skills with daily puzzles."
+  },
+  {
+    "id": "snake",
+    "title": "Classic Snake",
+    "category": "Arcade",
+    "thumbnail": "https://picsum.photos/seed/snake/400/300",
+    "iframeUrl": "https://patorjk.com/games/snake/",
+    "description": "The legendary snake game. Eat food, grow longer, don't hit the walls."
+  },
+  {
+    "id": "breakout",
+    "title": "Breakout",
+    "category": "Arcade",
+    "thumbnail": "https://picsum.photos/seed/breakout/400/300",
+    "iframeUrl": "https://jakesgordon.github.io/javascript-breakout/",
+    "description": "Classic brick-breaking action with power-ups and levels."
+  }
+]
