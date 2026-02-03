@@ -1,8 +1,8 @@
 
 import React, { useState, useMemo } from 'react';
-import { CATEGORIES } from '../constants';
-import { Category } from '../types';
-import GameCard from '../components/GameCard';
+import { CATEGORIES } from '../constants.tsx';
+import { Category } from '../types.ts';
+import GameCard from '../components/GameCard.tsx';
 
 const HomePage = ({ games, favorites, onToggleFavorite }) => {
   const [searchQuery, setSearchQuery] = useState('');

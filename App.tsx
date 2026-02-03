@@ -1,8 +1,8 @@
 
 import React, { useState, useEffect } from 'react';
 import { HashRouter, Routes, Route, Link } from 'react-router-dom';
-import HomePage from './pages/HomePage';
-import GamePage from './pages/GamePage';
+import HomePage from './pages/HomePage.tsx';
+import GamePage from './pages/GamePage.tsx';
 
 const App = () => {
   const [games, setGames] = useState([]);
